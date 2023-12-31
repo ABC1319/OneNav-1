@@ -47,7 +47,7 @@ categories:
         description: 监测网站运行状态
       - title: Email
         logo: https://gh.ykwang.top/icon/svg/Envelope.svg
-        url: mailto:email@ykwang.top
+        url: mailto:email@123456789.com
         description: 点击即可通过邮件联系我
 
   - category: Proxy
@@ -268,3 +268,4 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/m.niucodata.com/cat/64
         url: https://m.niucodata.com/cat/
         description: 听猫打呼噜
+        
