@@ -21,9 +21,9 @@ keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
 # 个人主页
-home_url: https://www.ykwang.top/
+home_url: https://sky.moshanghuakai.repl.co/
 # 个人邮箱
-email: email@ykwang.top
+email: email@123456789.com
 # GitHub链接
 github_url: https://github.com/
 ################
@@ -35,11 +35,11 @@ categories:
     links:
       - title: Skyの主页
         logo: https://gh.ykwang.top/icon/svg/Home.svg
-        url: https://www.ykwang.top/
+        url: https://sky.moshanghuakai.repl.co/
         description: 我的主页, 欢迎访问
       - title: Skyの博客
         logo: https://gh.ykwang.top/icon/svg/Blog.svg
-        url: https://blog.ykwang.top/
+        url: http://sky6.cloudtown.cc/blue/
         description: 我的博客, 欢迎留言
       - title: Skyの监测站
         logo: https://gh.ykwang.top/icon/svg/CheckCircle.svg
