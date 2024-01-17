@@ -21,7 +21,7 @@ keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
 # 个人主页
-home_url: https://3922602c-0dc4-48a1-aaf2-f5062410bed2-00-1qihxg0vhnc0l.janeway.replit.dev/
+home_url: https://abc1319.github.io/onenavi/
 # 个人邮箱
 email: email@123456789.com
 # GitHub链接
@@ -35,11 +35,11 @@ categories:
     links:
       - title: Skyの主页
         logo: https://gh.ykwang.top/icon/svg/Home.svg
-        url: https://f6a22411-db9d-4ba1-a784-b8f61fec1cd3-00-3e8aruxfyezqm.kirk.replit.dev/
+        url: https://f027ee8c-c8e5-4c3f-a441-644af9c32305-00-238hlzg18cpol.spock.replit.dev/
         description: 我的主页, 欢迎访问
       - title: Skyの博客
         logo: https://gh.ykwang.top/icon/svg/Blog.svg
-        url: https://1f5699af-9a4b-4790-9364-0d53c94bf0e9-00-1y7jccxi6uben.riker.replit.dev/
+        url: https://abc1319.github.io/blueo/
         description: 我的博客, 欢迎留言
       - title: Skyの监测站
         logo: https://gh.ykwang.top/icon/svg/CheckCircle.svg
